@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "aio-libs",
+  "repo": "idna-ssl",
+  "versions": [
+    {
+      "commit": "24f54514182c3530fb18d602963337edcadfd377",
+      "parsed_at": "2026-10-11T08:53:54.144204+00:00",
+      "filetree": "filetree/24f54514182c3530fb18d602963337edcadfd377.nq.gz",
+      "blobs": [
+        "blob/0aa739061fc27465a622735e3a80173d81c68025.nq.gz",
+        "blob/12ae75549102b8aa82059c585978ffbeb96d2b34.nq.gz",
+        "blob/676a73785d520ea15df14fbe53a10005f5b28b8f.nq.gz",
+        "blob/8c5d85da41560a313493c34ca630b47abfff5144.nq.gz",
+        "blob/9e97e50ea67845c61bdbd42791a3f385853c149a.nq.gz",
+        "blob/ce96d83fb6630825b404968cee1091b02096d17b.nq.gz",
+        "blob/da180db2c5b38ab42b71c7258696a655b3ef5061.nq.gz",
+        "blob/59db9bd469c63ce49cc6d4f5c0b05be08a47d20b.nq.gz",
+        "blob/687e8b674a9753b2e038684ecf5f58650d6ff465.nq.gz",
+        "blob/1ceacd84c8cdf25987d2b402d71b4366d1bbb086.nq.gz",
+        "blob/13ff0bb0c757e3ba1e16a903177e77466c7b5503.nq.gz",
+        "blob/f06dc5f40bff570fb8f7550b9faed8803eac64c2.nq.gz",
+        "blob/b551b97744546a4438d7eae24df98ca0d0e8231f.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/47a466b65336bc871e4f87d1d937a58a47d1ec15.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
