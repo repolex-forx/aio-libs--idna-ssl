@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/idna-ssl/commit/24f54514182c3530fb18d602963337edcadfd377",
       "git:hexsha": "24f54514182c3530fb18d602963337edcadfd377",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/aio-libs/idna-ssl/commit/e9e6586748bc70c1780f6faa0529db56ea5a8b97",
